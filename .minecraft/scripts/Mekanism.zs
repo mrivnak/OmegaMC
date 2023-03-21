@@ -18,3 +18,7 @@ recipes.remove(<mekanism:basicblock:5>);
 recipes.remove(<mekanism:basicblock:13>);
 recipes.remove(<mekanism:basicblock:12>);
 recipes.remove(<mekanism:basicblock:1>);
+recipes.remove(<mekanism:nugget:2>);
+recipes.remove(<mekanism:nugget:4>);
+recipes.remove(<mekanism:nugget:5>);
+recipes.remove(<mekanism:nugget:6>);
