@@ -1,0 +1,14 @@
+name = "Just Enough BrewCraft (JEBC)"
+filename = "just-enough-brewcraft-1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = ""
+hash = ""
+
+[update]
+[update.curseforge]
+file-id = 3002827
+project-id = 350806
