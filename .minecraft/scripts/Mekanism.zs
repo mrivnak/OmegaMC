@@ -1,0 +1,20 @@
+# Thermal Foundation conflicts
+recipes.remove(<mekanism:otherdust:0>);
+recipes.remove(<mekanismtools:bronzesword>);
+recipes.remove(<mekanismtools:bronzepickaxe>);
+recipes.remove(<mekanismtools:bronzeshovel>);
+recipes.remove(<mekanismtools:bronzehoe>);
+recipes.remove(<mekanismtools:bronzeaxe>);
+recipes.remove(<mekanismtools:bronzehelmet>);
+recipes.remove(<mekanismtools:bronzechestplate>);
+recipes.remove(<mekanismtools:bronzeleggings>);
+recipes.remove(<mekanismtools:bronzeboots>);
+recipes.remove(<mekanism:ingot:6>);
+recipes.remove(<mekanism:ingot:5>);
+recipes.remove(<mekanism:ingot:4>);
+recipes.remove(<mekanism:ingot:2>);
+recipes.remove(<mekanism:basicblock:3>);
+recipes.remove(<mekanism:basicblock:5>);
+recipes.remove(<mekanism:basicblock:13>);
+recipes.remove(<mekanism:basicblock:12>);
+recipes.remove(<mekanism:basicblock:1>);

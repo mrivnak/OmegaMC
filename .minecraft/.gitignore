@@ -15,6 +15,7 @@ texturepacks/
 options.txt
 usercache.json
 usernamecache.json
+*.log
 
 config/jei/worldSettings.cfg
 config/splash.properties
