@@ -17,6 +17,7 @@ usercache.json
 usernamecache.json
 
 config/jei/worldSettings.cfg
+config/splash.properties
 
 # Mod files
 *.jar
