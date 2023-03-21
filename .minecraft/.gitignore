@@ -1,0 +1,22 @@
+# PrismLauncher stuff
+icon.png
+
+# Client files
+crash-reports/
+logs/
+journeymap/
+resourcepacks/
+saves/
+screenshots/
+server-resource-packs/
+shaderpacks/
+texturepacks/
+
+options.txt
+usercache.json
+usernamecache.json
+
+config/jei/worldSettings.cfg
+
+# Mod files
+*.jar
