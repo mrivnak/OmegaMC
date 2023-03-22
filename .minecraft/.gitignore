@@ -22,3 +22,4 @@ config/splash.properties
 
 # Mod files
 *.jar
+*.nbt
