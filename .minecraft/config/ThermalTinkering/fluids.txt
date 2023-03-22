@@ -95,6 +95,7 @@ blueslime                                         (tconstruct:blueslime)        
 purpleslime                                       (tconstruct:purpleslime)                                                         = Liquid Purple Slime
 amber                                             (jaopca:molten.amber)                                                            = Molten Amber
 amethyst                                          (jaopca:molten.amethyst)                                                         = Molten Amethyst
+ancient_debris                                    (jaopca:molten.ancient_debris)                                                   = Molten Ancient Debris
 diamond                                           (jaopca:molten.diamond)                                                          = Molten Diamond
 ender_biotite                                     (jaopca:molten.ender_biotite)                                                    = Molten Ender Biotite
 lapis                                             (jaopca:molten.lapis)                                                            = Molten Lapis Lazuli

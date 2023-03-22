@@ -1,0 +1,14 @@
+name = "Quality Tools"
+filename = "QualityTools-1.0.7_for_1.12.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d48b86bfb5ca622a71332b7b3bffeff2b1729a04"
+
+[update]
+[update.curseforge]
+file-id = 2732994
+project-id = 264756
