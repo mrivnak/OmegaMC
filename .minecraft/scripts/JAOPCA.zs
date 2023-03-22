@@ -1,0 +1,11 @@
+recipes.remove(<minecraft:dye:4>);
+recipes.remove(<minecraft:emerald:0>);
+recipes.remove(<biomesoplenty:gem:0>);
+recipes.remove(<biomesoplenty:gem:1>);
+recipes.remove(<biomesoplenty:gem:2>);
+recipes.remove(<biomesoplenty:gem:3>);
+recipes.remove(<biomesoplenty:gem:4>);
+recipes.remove(<biomesoplenty:gem:5>);
+recipes.remove(<biomesoplenty:gem:6>);
+recipes.remove(<biomesoplenty:gem:7>);
+recipes.remove(<minecraft:quartz:0>);

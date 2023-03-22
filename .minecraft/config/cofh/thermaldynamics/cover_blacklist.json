@@ -260,5 +260,10 @@
 	{"block": "biomesoplenty:terrarium", "meta": 12},
 	{"block": "biomesoplenty:terrarium", "meta": 13},
 	{"block": "biomesoplenty:terrarium", "meta": 14},
-	{"block": "biomesoplenty:terrarium", "meta": 15}
+	{"block": "biomesoplenty:terrarium", "meta": 15},
+	{"block": "plustic:plustic.molten_alumite", "meta": 0},
+	{"block": "plustic:plustic.molten_osmium", "meta": 0},
+	{"block": "plustic:plustic.molten_refined_obsidian", "meta": 0},
+	{"block": "plustic:plustic.molten_osgloglas", "meta": 0},
+	{"block": "plustic:plustic.molten_osmiridium", "meta": 0}
 ]
