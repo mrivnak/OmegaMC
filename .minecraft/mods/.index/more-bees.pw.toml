@@ -1,0 +1,14 @@
+name = "More Bees"
+filename = "morebees-1.12.2-2.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = ""
+hash = ""
+
+[update]
+[update.curseforge]
+file-id = 2574459
+project-id = 250226
