@@ -3,6 +3,7 @@ icon.png
 
 # Client files
 crash-reports/
+library
 logs/
 journeymap/
 resourcepacks/
@@ -23,4 +24,6 @@ config/splash.properties
 # Mod files
 *.jar
 *.jar.disabled
+*.jar.meta
 *.nbt
+llibrary/

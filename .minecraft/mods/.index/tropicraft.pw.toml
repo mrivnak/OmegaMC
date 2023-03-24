@@ -1,0 +1,14 @@
+name = "Tropicraft"
+filename = "tropicraft-MC1.12.2-7.1.9.115.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0fd96e1368489dc6c4d1121ce67bb8e660e65f65"
+
+[update]
+[update.curseforge]
+file-id = 2713918
+project-id = 254794
