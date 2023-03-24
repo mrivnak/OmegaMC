@@ -2,6 +2,7 @@
 icon.png
 
 # Client files
+backups/
 crash-reports/
 library
 logs/

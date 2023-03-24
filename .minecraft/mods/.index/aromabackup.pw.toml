@@ -1,0 +1,14 @@
+name = "AromaBackup"
+filename = "AromaBackup-1.12.2-3.0.0.0.b135.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a610346e692c3087ddf235297aa10b7fd4d06e53"
+
+[update]
+[update.curseforge]
+file-id = 3070947
+project-id = 225658

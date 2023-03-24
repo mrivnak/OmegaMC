@@ -1,0 +1,1 @@
+recipes.remove(<forestry:charcoal:0>);
