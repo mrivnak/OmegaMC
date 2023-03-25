@@ -2914,5 +2914,13 @@
 	{
 		"block": "railcraft:pearlized_slab",
 		"meta": 1
+	},
+	{
+		"block": "plustic:plustic.molten_desh",
+		"meta": 0
+	},
+	{
+		"block": "plustic:plustic.molten_titanium",
+		"meta": 0
 	}
 ]

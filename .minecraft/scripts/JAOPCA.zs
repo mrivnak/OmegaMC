@@ -21,6 +21,8 @@ recipes.remove(<jaopca:dust.green_middle_gem:0>);
 recipes.remove(<jaopca:dust.crimson_middle_gem:0>);
 recipes.remove(<jaopca:dust.life_crystal:0>);
 recipes.remove(<jaopca:dust.scabyst:0>);
+recipes.remove(<jaopca:dust.lunar_sapphire:0>);
+recipes.remove(<jaopca:dust.silicon:0>);
 recipes.remove(<jaopca:block.wood:0>);
 recipes.remove(<jaopca:block.eudialyte:0>);
 recipes.remove(<jaopca:block.zircon:0>);
