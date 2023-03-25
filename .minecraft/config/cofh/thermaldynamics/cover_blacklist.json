@@ -2538,5 +2538,21 @@
 	{
 		"block": "forestry:stump",
 		"meta": 0
+	},
+	{
+		"block": "plustic:plustic.molten_terrasteel",
+		"meta": 0
+	},
+	{
+		"block": "plustic:plustic.molten_elementium",
+		"meta": 0
+	},
+	{
+		"block": "plustic:plustic.molten_manasteel",
+		"meta": 0
+	},
+	{
+		"block": "plustic:plustic.molten_mirion",
+		"meta": 0
 	}
 ]
