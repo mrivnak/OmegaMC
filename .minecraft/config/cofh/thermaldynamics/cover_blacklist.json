@@ -2510,5 +2510,33 @@
 	{
 		"block": "rustic:wind_thistle",
 		"meta": 0
+	},
+	{
+		"block": "forestry:stairs.vanilla.fireproof.oak",
+		"meta": 0
+	},
+	{
+		"block": "forestry:stairs.vanilla.fireproof.spruce",
+		"meta": 0
+	},
+	{
+		"block": "forestry:stairs.vanilla.fireproof.birch",
+		"meta": 0
+	},
+	{
+		"block": "forestry:stairs.vanilla.fireproof.jungle",
+		"meta": 0
+	},
+	{
+		"block": "forestry:stairs.vanilla.fireproof.acacia",
+		"meta": 0
+	},
+	{
+		"block": "forestry:stairs.vanilla.fireproof.dark_oak",
+		"meta": 0
+	},
+	{
+		"block": "forestry:stump",
+		"meta": 0
 	}
 ]

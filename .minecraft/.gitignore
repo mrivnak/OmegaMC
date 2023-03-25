@@ -27,4 +27,5 @@ config/splash.properties
 *.jar.disabled
 *.jar.meta
 *.nbt
+*.so
 llibrary/
