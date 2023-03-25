@@ -1,5 +1,5 @@
 
-#Configurations for material Cinnabar.
+#Configurations for material Scabyst.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -14,7 +14,7 @@
 	#The model type of the material.
 	modelType = "crystal"
 	#The color of this material.
-	color = 11623767
+	color = 6655878
 
 [molten]
 	#The temperature of this molten fluid.

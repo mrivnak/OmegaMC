@@ -21,6 +21,7 @@ usernamecache.json
 
 config/jei/worldSettings.cfg
 config/splash.properties
+betweenlands_gallery/
 
 # Mod files
 *.jar
