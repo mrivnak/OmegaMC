@@ -1,0 +1,13 @@
+recipes.remove(<projectred-core:resource_item:201>);
+recipes.remove(<projectred-core:resource_item:200>);
+recipes.remove(<projectred-core:resource_item:202>);
+recipes.remove(<projectred-exploration:stone:1>);
+recipes.remove(<projectred-exploration:stone:4>);
+recipes.remove(<projectred-exploration:stone_wall:0>);
+recipes.remove(<projectred-exploration:stone_wall:3>);
+recipes.remove(<projectred-exploration:stone:5>);
+recipes.remove(<projectred-exploration:stone:6>);
+recipes.remove(<projectred-exploration:stone:7>);
+recipes.remove(<projectred-exploration:iron_sickle:0>);
+recipes.remove(<projectred-exploration:golden_sickle:0>);
+recipes.remove(<projectred-exploration:diamond_sickle:0>);

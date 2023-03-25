@@ -2922,5 +2922,57 @@
 	{
 		"block": "plustic:plustic.molten_titanium",
 		"meta": 0
+	},
+	{
+		"block": "projectred-relocation:frame",
+		"meta": 0
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 10
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 9
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 8
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 7
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 11
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 0
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 1
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 2
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 3
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 4
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 5
+	},
+	{
+		"block": "projectred-exploration:stone_wall",
+		"meta": 6
 	}
 ]

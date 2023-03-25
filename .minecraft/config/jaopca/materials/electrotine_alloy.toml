@@ -1,5 +1,5 @@
 
-#Configurations for material MeteoricIron.
+#Configurations for material ElectrotineAlloy.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -13,14 +13,4 @@
 	hasEffect = false
 	#The model type of the material.
 	modelType = "metallic"
-	#The color of this material.
-	color = 7103065
-
-[molten]
-	#The temperature of this molten fluid.
-	temperature = 1000
-
-[mekanism]
-	#The default base to use in Mekanism's Combiner to recreate ores.
-	oreBase = "minecraft:cobblestone"
 

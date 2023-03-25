@@ -1,0 +1,1 @@
+recipes.remove(<microblockcbe:stone_rod:0>);
