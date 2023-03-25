@@ -2554,5 +2554,9 @@
 	{
 		"block": "plustic:plustic.molten_mirion",
 		"meta": 0
+	},
+	{
+		"block": "plustic:plustic.molten_starmetal",
+		"meta": 0
 	}
 ]

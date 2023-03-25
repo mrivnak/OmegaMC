@@ -1,0 +1,14 @@
+name = "QuackLib"
+filename = "quacklib-2.2.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "14f0bb427f776338fd91902d17d77cd818bea92e"
+
+[update]
+[update.curseforge]
+file-id = 2619757
+project-id = 276915
