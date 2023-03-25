@@ -2558,5 +2558,361 @@
 	{
 		"block": "plustic:plustic.molten_starmetal",
 		"meta": 0
+	},
+	{
+		"block": "railcraft:charge_trap",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 4
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 5
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 6
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 7
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 8
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 9
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 10
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 11
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 12
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 11
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 12
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 13
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 14
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 15
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 2
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 3
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 2
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 3
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 9
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 7
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 8
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 5
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 6
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 10
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 4
+	},
+	{
+		"block": "railcraft:wire",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:anvil",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:anvil",
+		"meta": 4
+	},
+	{
+		"block": "railcraft:anvil",
+		"meta": 8
+	},
+	{
+		"block": "railcraft:creosote_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:creosote_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:post_metal",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 12
+	},
+	{
+		"block": "railcraft:badlands_slab",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:bleachedbone_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:bleachedbone_slab",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:bloodstained_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:track_elevator",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:track_flex_abandoned",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:track_flex_electric",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:track_flex_strap_iron",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:track_flex_reinforced",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:track_flex_high_speed",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:track_flex_hs_electric",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:infernal_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:jaded_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:pearlized_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:quarried_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:badlands_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:sandy_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:abyssal_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:abyssal_slab",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:badlands_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:frostbound_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:bloodstained_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:bleachedbone_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:abyssal_paver_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:sandy_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:badlands_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:quarried_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:pearlized_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:jaded_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 13
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 14
+	},
+	{
+		"block": "railcraft:post_metal_platform",
+		"meta": 15
+	},
+	{
+		"block": "railcraft:abyssal_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:bleachedbone_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:bloodstained_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:frostbound_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:infernal_brick_stairs",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:bloodstained_slab",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:sandy_slab",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:sandy_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:worldspike_point",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:quarried_slab",
+		"meta": 1
+	},
+	{
+		"block": "plustic:plustic.molten_thaumium",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:quarried_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:frostbound_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:frostbound_slab",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:infernal_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:infernal_slab",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:jaded_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:jaded_slab",
+		"meta": 1
+	},
+	{
+		"block": "railcraft:pearlized_slab",
+		"meta": 0
+	},
+	{
+		"block": "railcraft:pearlized_slab",
+		"meta": 1
 	}
 ]

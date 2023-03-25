@@ -1,0 +1,14 @@
+name = "Railcraft"
+filename = "railcraft-12.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = ""
+hash = ""
+
+[update]
+[update.curseforge]
+file-id = 2687757
+project-id = 51195
