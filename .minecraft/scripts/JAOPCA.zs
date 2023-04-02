@@ -1,4 +1,3 @@
-recipes.remove(<jaopca:dust.lapis:0>);
 recipes.remove(<jaopca:dust.emerald:0>);
 recipes.remove(<jaopca:dust.quartz:0>);
 recipes.remove(<jaopca:dust.ruby:0>);
@@ -26,3 +25,4 @@ recipes.remove(<jaopca:block.eudialyte:0>);
 recipes.remove(<jaopca:block.zircon:0>);
 recipes.remove(<jaopca:block.azurite:0>);
 recipes.remove(<jaopca:block.scabyst:0>);
+recipes.remove(<jaopca:block.khnumite:0>);

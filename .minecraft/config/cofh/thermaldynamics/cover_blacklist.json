@@ -2974,5 +2974,105 @@
 	{
 		"block": "projectred-exploration:stone_wall",
 		"meta": 6
+	},
+	{
+		"block": "ic2:fence",
+		"meta": 0
+	},
+	{
+		"block": "ic2:hot_water",
+		"meta": 0
+	},
+	{
+		"block": "ic2:weed_ex",
+		"meta": 0
+	},
+	{
+		"block": "ic2:hydrogen",
+		"meta": 0
+	},
+	{
+		"block": "ic2:air",
+		"meta": 0
+	},
+	{
+		"block": "ic2:oxygen",
+		"meta": 0
+	},
+	{
+		"block": "ic2:heavy_water",
+		"meta": 0
+	},
+	{
+		"block": "ic2:milk",
+		"meta": 0
+	},
+	{
+		"block": "ic2:coolant",
+		"meta": 0
+	},
+	{
+		"block": "ic2:creosote",
+		"meta": 0
+	},
+	{
+		"block": "ic2:biogas",
+		"meta": 0
+	},
+	{
+		"block": "ic2:biomass",
+		"meta": 0
+	},
+	{
+		"block": "ic2:distilled_water",
+		"meta": 0
+	},
+	{
+		"block": "ic2:hot_coolant",
+		"meta": 0
+	},
+	{
+		"block": "ic2:pahoehoe_lava",
+		"meta": 0
+	},
+	{
+		"block": "ic2:steam",
+		"meta": 0
+	},
+	{
+		"block": "ic2:superheated_steam",
+		"meta": 0
+	},
+	{
+		"block": "ic2:sapling",
+		"meta": 0
+	},
+	{
+		"block": "ic2:sheet",
+		"meta": 0
+	},
+	{
+		"block": "ic2:sheet",
+		"meta": 1
+	},
+	{
+		"block": "ic2:sheet",
+		"meta": 2
+	},
+	{
+		"block": "ic2:mining_pipe",
+		"meta": 0
+	},
+	{
+		"block": "ic2:reinforced_door",
+		"meta": 0
+	},
+	{
+		"block": "ic2:uu_matter",
+		"meta": 0
+	},
+	{
+		"block": "ic2:construction_foam",
+		"meta": 0
 	}
 ]
