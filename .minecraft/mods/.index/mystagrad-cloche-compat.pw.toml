@@ -1,0 +1,14 @@
+name = "MystAgrad Cloche Compat"
+filename = "mystagradcompat-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2cad6b1b16571040786c24320efc423653336cb6"
+
+[update]
+[update.curseforge]
+file-id = 2535057
+project-id = 288959
